@@ -1,1 +1,3 @@
-console.log("Hammad here!");
+console.log(`JS with "Chai and Code"`);
+
+var name = "Hammad";
